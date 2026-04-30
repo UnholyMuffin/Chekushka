@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="620" height="395" alt="image" src="https://github.com/user-attachments/assets/9305ab9a-511d-47e2-b8eb-4e1c6cdd577b" />
 
 # Chekushka
 
