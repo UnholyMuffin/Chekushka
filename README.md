@@ -6,7 +6,7 @@
 
 ## Overview
 
-Chekushka is a PowerShell-based GUI tool designed for Active Directory administrators to quickly check user account status and unlock locked accounts. Unlike traditional AD tools that query any domain controller (which may have stale lockout information), Chekushka always queries the PDC Emulator for accurate lockout status and performs unlocks on both the PDC Emulator and the nearest domain controller to ensure immediate effect.
+Chekushka is a PowerShell-based GUI tool designed for Active Directory administrators to quickly check user account status.
 
 ## Features
 
