@@ -6,7 +6,7 @@
 
 ## Overview
 
-Chekushka is a PowerShell-based GUI tool designed for Active Directory administrators to quickly check user account status.
+Chekushka is a PowerShell-based GUI tool designed for Active Directory administrators to quickly check user account.
 
 ## Features
 
