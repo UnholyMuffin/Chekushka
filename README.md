@@ -1,6 +1,6 @@
 # Chekushka
 
-<img width="330" height="275" alt="image" src="https://github.com/user-attachments/assets/5f6b79f2-1de1-4c05-a92c-82afb047f963" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5f6b79f2-1de1-4c05-a92c-82afb047f963" />
 
 <br>
 
